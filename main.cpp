@@ -57,6 +57,7 @@ int main() {
     // Find (for searching)
     // str.find(substring)
     // Returns the 1st idx of the 1st occurence of the substring
+	// If not found, returns string::npos
     // cout << str.find("Hanna");
 
     // Reverse (function) => O(N)
